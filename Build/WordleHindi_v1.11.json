@@ -1,0 +1,14 @@
+{
+"companyName": "ATGaming",
+"productName": "शब्दम",
+"dataUrl": "WordleHindi_v1.11.data.unityweb",
+"wasmCodeUrl": "WordleHindi_v1.11.wasm.code.unityweb",
+"wasmFrameworkUrl": "WordleHindi_v1.11.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "WordleHindi_v1.11.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
